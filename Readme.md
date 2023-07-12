@@ -29,4 +29,8 @@ If you have any feedback, please reach out to us at shivakant1472002@gmail.com
 ## 🛠 Skills
  HTML, CSS
 
+## Screenshots
+
+![App Screenshot](./Parallax%20Website.png)
+
 
